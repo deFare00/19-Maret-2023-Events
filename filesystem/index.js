@@ -9,3 +9,5 @@ const fileReadCallback = (error, data) => {
 };
 
 fs.readFile('notes.txt', 'utf-8', fileReadCallback);
+
+//filesystem latihan
